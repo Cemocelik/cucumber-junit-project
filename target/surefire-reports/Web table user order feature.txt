@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Web table user order feature
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 42.659 s <<< FAILURE! - in Web table user order feature
+Web table user order feature.Scenario: User should be able to place order and order seen in web table #1  Time elapsed: 3.569 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Rosalind Frankli[]> but was:<Rosalind Frankli[n]>
+
+Web table user order feature.Scenario: User should be able to place order and order seen in web table #4  Time elapsed: 3.584 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Katherina Johnso[]> but was:<Katherina Johnso[n]>
+
